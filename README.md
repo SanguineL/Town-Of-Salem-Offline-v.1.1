@@ -1,8 +1,12 @@
 # Town-Of-Salem-Offline-v.1.1
 Added:
+
   NEW Plaguebearer Role
+  
   Fixed Bugs
+  
   Added 2 New Windows (Alive and Dead Windows)
+  
   Support for more combinations of Custom Games
  
  ------------
@@ -21,6 +25,7 @@ The Mafia Kills at Night, The Town decides the guilty the next day.
 
 
 WIN CONDITIONS:
+
 Mafia - Wins if outnumbers the Town
 
 Town - Wins if kills all the Mafia
@@ -49,5 +54,7 @@ Plaguebearer - Alignment: None (Infects a person at night. When everyone Alive i
 
 
 !!!PLEASE MESSAGE ME FOR ANY BUGS!!!
+
 !!!THE FILE TAKES A WHILE TO OPEN!!!
+
 !!DON'T CHANGE EXTRA FILES PLEASE!!!
